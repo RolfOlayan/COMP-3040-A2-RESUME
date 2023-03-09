@@ -1,8 +1,3 @@
-# Rolf Olayan
-
-- rolfolayan@gmail.com
-- (204) 805-7553
-
 ## TECHNICAL SKILLS
 
 | **PROGRAMMING & DATABASES** | **SOFTWARE & DEVELOPMENT TOOLS** |
