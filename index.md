@@ -27,7 +27,7 @@ _Agriculture and Agri-Food Canada (Winnipeg, MB)_
 #### **Support Worker** _(Jun 2018 – Present)_
 _St. Amant (Winnipeg, MB)_
 > - Experienced in assisting children within any of the 3 levels of Autism Spectrum Disorder (ASD).
-> 		- Basic First Aid, CPR C & AED, and Non-violent Crisis Intervention (NCI) certified.
+>> - Basic First Aid, CPR C & AED, and Non-violent Crisis Intervention (NCI) certified.
 > - Assisted in the planning and coordination of a summer camp program between St. Amant and Camp Arnes by maintaining the communication between the organizations and providing up-to-date reports.
 
 ## EDUCATION
